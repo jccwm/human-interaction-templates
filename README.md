@@ -1,11 +1,11 @@
 # Human Interaction Templates
-This repository houses instructional guides, Markdown templates, and text documents that I've crafted in the service of interacting well with other people.  All creations are my original works, but as with most creative endeavors, these are the amalgamation of all my past life experiences, tips shared by generous mentors, and inspirational works of others.
+This repository houses instructional guides, Markdown templates, and text documents that were crafted in the service of interacting well with other people.  All creations are original works of the initial repo owner from whom I've forked the content. As with most creative endeavors, these are the amalgamation of all life experiences, tips shared by generous mentors, and inspirational works of others; forking from Matthew, I've made some initial changes and anticipate making more. I also expect others will further adapt.
 
 ## Attribution
-I have attempted to reach out to anyone that inspired a work and asked if they want to be credited publicly in the artifact either by full name or by initials. I will default to initials where appropriate. PRs, Issues, or emails are always welcome to further attribute past works.
+Matthew has attempted to reach out to anyone that inspired a work and asked if they want to be credited publicly in the artifact either by full name or by initials, I pledge to do the same. I will default to initials where appropriate. PRs, Issues, or emails are always welcome to further attribute past works.
 
 ## Motivations
-I use a host of Markdown and text-based templates for my work at GitHub. In the spirit of open source, and sharing more than just traditional programming language code, I've chosen to open source this set of materials.
+We use a host of Markdown and text-based templates for our work at GitHub. In the spirit of open source for all, and sharing more than just traditional programming language code - I am decidely NOT a developer but I believe documentation and GitHub as a valuable tool for all who collaborate - I am putting this forked work out there for others to see. Please feel free to fork and make it your own, if you find the resources as valuable as I have.
 
 ## Contributions
 I'd welcome any modest enhancements through pull requests, but large-scale changes might be best suited to be implemented in a fork of this repository.
@@ -18,3 +18,4 @@ I'd welcome any modest enhancements through pull requests, but large-scale chang
 5. [Know Your Team](https://knowyourteam.com/)
 6. [Lara Hogan](https://larahogan.me/)
 7. [Johanna Rothman](https://www.jrothman.com/blog/mpd/)
+8. [Adam Grant, _Give and Take_ ](https://www.adamgrant.net/book/give-and-take/)
